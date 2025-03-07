@@ -42,7 +42,7 @@
 
 ## 📫 Contacto
 <p align="center">
-  <a href="https://www.linkedin.com/in//](https://www.linkedin.com/in/alejandro-meli%C3%A1n-lemes-bb3804354" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-meli%C3%A1n-lemes-bb3804354" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alu0101443126@ull.edu.es">
