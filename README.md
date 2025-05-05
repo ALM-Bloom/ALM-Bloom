@@ -2,7 +2,7 @@
 <h1 align="center">Soy Ale M.L</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&width=435&lines=Aspirante+a+Desarrollador%2B%2B;Spring Boot;Estudiante+en+la+ULL+%282020-2025%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&width=435&lines=Aspirante+a+Desarrollador%2B%2B;Spring+Boot;Estudiante+en+la+ULL+%282020-2025%29" alt="Typing SVG" />
 </p>
 
 ---
