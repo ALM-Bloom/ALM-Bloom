@@ -8,16 +8,18 @@
 ---
 
 <!-- RESTO DE CAMPOS -->
-## 🚀 Sobre mí
-🎓 Estudiante de **Ingeniería Informática** en la **Universidad de La Laguna (ULL)**  
-💻 Apasionado por la programación en **Java y C++**. _Backend > Frontend_.<br>
-📚 Proactividad como principio SOLID personal.
+## Sobre mí
+- Graduado en **Ingeniería Informática** por la **Universidad de La Laguna (ULL)**  
+- 'Enteradillo' de Java con la ayuda de Spring.
+- Proactividad como principio SOLID personal.
 
 ---
 
-## 🔧 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-Boot?style=for-the-badge&logo=spring&logoColor=black" alt="Spring" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -27,7 +29,7 @@
 
 ---
 
-## 📊 Estadísticas _redondeadas a la alta_
+## Estadísticas _redondeadas a la alta_
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ALM-Bloom&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -40,7 +42,7 @@
 
 ---
 
-## 📫 Contacto
+## Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-meli%C3%A1n-lemes-bb3804354" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
