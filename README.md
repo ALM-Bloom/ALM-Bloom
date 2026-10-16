@@ -10,9 +10,7 @@
 <!-- RESTO DE CAMPOS -->
 ## Sobre mí
 - Graduado en **Ingeniería Informática** por la **Universidad de La Laguna (ULL)**  
-- 'Enteradillo' de Java con la ayuda de Spring.
-- Proactividad como principio SOLID personal.
-
+- Estudiante en el Máster en Ingeniería Industrial y Robótica.
 ---
 
 ## Tecnologías y Herramientas
